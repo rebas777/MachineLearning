@@ -1,0 +1,3 @@
+本作业的重点：Vectorization的思路。
+
+//体现在gradientDescent.m 和 gradientDescentMulti.m两个文件中
